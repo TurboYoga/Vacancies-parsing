@@ -1,29 +1,30 @@
-from func.VacancyAPI import HH_API
-
-
-class Vacancy:
+class Vacancy(object):
     def __init__(self, name, id, salary, requirements):
         self.name = name
         self.id = id
         self.salary = salary
         self.requirements = requirements
 
+    @property
+    def salary(self):
+        return self._salary
 
-    def __ge__(self, other):
-        self.other = other
-        if not isinstance(other, int):
-            raise TypeError ('Зарплата должна быть типа int')
-        if self.salary > self.other:
-            return f'Зарплата у {self.name} больше чем {self.other}'
-        if self.salary < self.other:
-            return f'Зарплата у {self.name} меньше чем {self.other}'
-        if self.salary == self.other:
-            return f'Зарплата у {self.name} и {self.other} равны'
+    @salary.setter
+    def salary(self, value):
+        if value:
+            self._salary = value     # ["from"] if value['from'] else value['to']
+        else:
+            self._salary = 0
 
-
-
-
-
+    def __gt__(self, other):
+        # Тут достаточно будет вернуть только True/False, так как по большей части метод нужен только для сортировки
+        return self.salary > other.salary
 
 
-
+    def __str__(self):
+        # Нужен для вывода в интерфейс
+        return (f"ID: {self.id}\n"
+                f"Название вакансии: {self.name}\n"
+                f"Зарплата: {self.salary}\n"
+                f"Требования: {self.requirements}\n"
+                f"=====")
