@@ -53,12 +53,12 @@ class JsonSaver(ABC):
     def remove_data_from_json_hh(cls, min_salary=100000):
         # Метод, удаляющий вакансии hh
         data = cls.select_data_from_json_hh()
-        data = [item for item in data if item['_salary'] > min_salary]
+        data = [item for item in data if item['_salary'] > int(min_salary)]
         cls.save_data_to_json_hh(data)
 
     @classmethod
     def remove_data_from_json_sj(cls, min_salary=100000):
         # Метод, удаляющий вакансии sj
         data = cls.select_data_from_json_sj()
-        data = [item for item in data if item['_salary'] > min_salary]
+        data = [item for item in data if item['_salary'] > int(min_salary)]
         cls.save_data_to_json_sj(data)

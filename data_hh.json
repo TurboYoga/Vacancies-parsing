@@ -1,81 +1,165 @@
 [
     {
-        "name": "Backend разработчик Telegram/Python/Django (удаленно)",
-        "id": "88901728",
-        "_salary": 150000,
-        "requirements": "Знание и практический опыт с Git, Django, python.iogram, telegram bot api, docker. Понимание и практическое применение ORM, REST, Миграций. "
+        "name": "Python-разработчик Junior",
+        "id": "89204058",
+        "_salary": 75000,
+        "requirements": "Ответственность, исполнительность. Профильное образование не ниже среднего. Знание SQL, <highlighttext>Python</highlighttext>. Опыт настройки интеграций, умение читать документации."
     },
     {
-        "name": "Python-разработчик (fullstack)",
-        "id": "88876061",
-        "_salary": 130000,
-        "requirements": "Подтвержденный опыт работы с <highlighttext>Python</highlighttext> (Django framework). Знание SQL и опыт работы с реляционными БД PostgreSQL. Умение работать в команде..."
+        "name": "Junior Python Developer (удаленно)",
+        "id": "88776307",
+        "_salary": 40000,
+        "requirements": "Будет плюсом: Опыт работы с библиотеками для работы с ботами (tg). Опыт работы с очередями и брокерами сообщений. "
     },
     {
-        "name": "Middle+/Senior Python Django разработчик (удаленно)",
-        "id": "87711875",
-        "_salary": 180000,
-        "requirements": "Глубокое знание <highlighttext>Python</highlighttext> 3, pytest, Django, DRF, PostgreSQL, Celery, Redis, RabbitMQ. Понимание того как писать чистый и производительный код, как..."
+        "name": "Python-разработчик (Junior)",
+        "id": "89203206",
+        "_salary": 60000,
+        "requirements": "Мы также рассматриваем студентов 4-5 курсов. Знание языка <highlighttext>Python</highlighttext>. Опыт работы с PostgreSQL. Знание основ работы с Git и..."
     },
     {
-        "name": "Разработчик Python",
-        "id": "87618021",
-        "_salary": 260000,
-        "requirements": "Опыт работы в качестве бэкенд разработчика на <highlighttext>Python</highlighttext> от 2-х лет. Понимание принципов межсистемных интеграций (API, message broker, integration..."
+        "name": "Backend разработчик (Python / SQL)",
+        "id": "87845885",
+        "_salary": 50000,
+        "requirements": "Опыт работы с <highlighttext>Python</highlighttext> и Django. <highlighttext>Python</highlighttext> 3, Django, Django REST Framework, PyTest. Git и linux/unix на уровне ежедневного..."
     },
     {
-        "name": "Разработчик python",
-        "id": "88769370",
-        "_salary": 120000,
-        "requirements": "1. Опыт работы в качестве бэкенд разработчика на <highlighttext>Python</highlighttext> от 2-х лет. 2. Понимание принципов межсистемных интеграций (API, message..."
+        "name": "Junior Python Odoo Framework разработчик",
+        "id": "89071238",
+        "_salary": 50000,
+        "requirements": "Знание языка программирования <highlighttext>Python</highlighttext>. Понимание бизнес-процессов, построение логической цепочки действий. Умение декомпозировать последовательность процессов и участвующие объекты. "
     },
     {
-        "name": "Разработчик Python",
-        "id": "88935246",
-        "_salary": 450000,
-        "requirements": "Опыт программирования на <highlighttext>Python</highlighttext>. Знания СУБД PostgreSQL. Опыт работы с django или другим <highlighttext>python</highlighttext> web framework. Знание основ HTML, CSS. "
+        "name": "Backend разработчик [C# or Python]",
+        "id": "89332448",
+        "_salary": 60000,
+        "requirements": "Высшее/неоконченное высшее (желательно тех. вуз, старшие курсы). Твердые базовые знания C#/<highlighttext>Python</highlighttext>. Понимание REST. Computer Science. Основы Angular/React..."
     },
     {
         "name": "Python Developer",
-        "id": "88960160",
+        "id": "88819255",
+        "_salary": 45000,
+        "requirements": "Имеешь глубокие знания <highlighttext>Python</highlighttext>. Знаком с Django и Django ORM. Обладаешь начальными знаниями реляционных и/или NoSQL баз данных (PostgreSQL..."
+    },
+    {
+        "name": "Backend Python Developer",
+        "id": "88761220",
+        "_salary": 100000,
+        "requirements": "Мы ждем от тебя знания и опыт работы с:"
+    },
+    {
+        "name": "Python Trainee",
+        "id": "88891232",
+        "_salary": 20000,
+        "requirements": "Теоретическое знание <highlighttext>Python</highlighttext>, знание основных алгоритмов и структур данных, SQL и проектирования реляционных БД. Понимание принципов ООП. Навыки использования OS..."
+    },
+    {
+        "name": "Junior+ Python разработчик, удаленно",
+        "id": "89263995",
+        "_salary": 60000,
+        "requirements": "Обладали крепкими знаниями <highlighttext>Python</highlighttext>. Имели опыт работы, но не обязательно с MongoDB, понимали ее сильные и слабые стороны. "
+    },
+    {
+        "name": "Программист Python/Django в веб-студию",
+        "id": "89089287",
+        "_salary": 30000,
+        "requirements": "Знание <highlighttext>Python</highlighttext>/Django, JavaScript, Bootstrap, MySQL, HTML/CSS. Базовые знания GIT. Желателен опыт коммерческой разработки. Приветствуются знания vue.js, nuxt.js, Django..."
+    },
+    {
+        "name": "Программист Python",
+        "id": "89102467",
         "_salary": 150000,
-        "requirements": null
+        "requirements": "Уверенное знание языка и библиотек <highlighttext>Python</highlighttext> 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
     },
     {
-        "name": "Middle+/Senior Python Django разработчик (удаленно)",
-        "id": "88111282",
-        "_salary": 280000,
-        "requirements": "Глубокое знание <highlighttext>Python</highlighttext> 3, pytest, Django, DRF, PostgreSQL, Celery, Redis, RabbitMQ. Понимание того как писать чистый и производительный код, как..."
+        "name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+        "id": "89202150",
+        "_salary": 80000,
+        "requirements": "Что обязательно нужно знать и уметь: <highlighttext>Python</highlighttext> на базовом уровне (циклы, функции, структуры данных, ООП). Что такое Header, Cookie и..."
     },
     {
-        "name": "Python Developer (Remote)",
-        "id": "88176059",
-        "_salary": 180000,
-        "requirements": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext>. Знание <highlighttext>Python</highlighttext> 3.10+. Опыт работы с базами данных, понимание базовых принципов внутренней работы..."
+        "name": "Python разработчик",
+        "id": "89271401",
+        "_salary": 330000,
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext> от 5 лет. Знание и опыт работы со Spark (без него не готовы смотреть). "
     },
     {
-        "name": "Разработчик Python / Computer Vision",
-        "id": "88654783",
-        "_salary": 250000,
-        "requirements": "Хорошие знания <highlighttext>Python</highlighttext> и умение писать на нем качественный и понятный код. Знание классического ML, классификация, кластеризация, регрессия. "
+        "name": "Python-разработчик",
+        "id": "88622891",
+        "_salary": 60000,
+        "requirements": "Пишете качественный и эффективный код на <highlighttext>Python</highlighttext> 3. Имеете опыт разработки на Django. Имеете опыт разработки на JavaScript. "
     },
     {
-        "name": "Backend разработчик (Python)",
-        "id": "88188452",
-        "_salary": 150000,
-        "requirements": "Уверенные знания <highlighttext>python</highlighttext>3.6 (желателен опыт коммерческой разработки от 2 лет). Опыт работы с Flask/Django. Опыт работы с..."
+        "name": "Стажер-разработчик Python/Java/Kotlin (компьютерное зрение), удалённо",
+        "id": "89166853",
+        "_salary": 15000,
+        "requirements": "Знание <highlighttext>Python</highlighttext>. Знание Tensorflow или PyTorch. Опыт использования моделей семантической. Сегментации, детекции, классификации. Опыт работы с Docker. Опыт написания микросервиса..."
     },
     {
-        "name": "Middle/Middle+ Backend разработчик (Python)",
-        "id": "88817250",
-        "_salary": 130000,
-        "requirements": "Твердые знания <highlighttext>Python</highlighttext>, опыт программирования от 3-х лет. Опыт работы с Django, Django Rest Framework. Понимание принципов REST API..."
+        "name": "Middle Python Backend Developer",
+        "id": "89304121",
+        "_salary": 13000000,
+        "requirements": "Технологии и инструменты. Framework: Django, Django REST Framework. Version control: Git, Gitlab. - Хорошее знание английского языка (от Intermediate ). - "
     },
     {
-        "name": "Python разработчик (middle)",
-        "id": "88467313",
-        "_salary": 180000,
-        "requirements": "Опыт коммерческой разработки веб-сервисов на Django от 3 лет. Экспертизу в работе с RabbitMQ, Docker/Docker Compose. "
+        "name": "Бекенд-разработчик с интересом к машинному обучению (Python/ FastAPI)",
+        "id": "88416547",
+        "_salary": 30000,
+        "requirements": "Ты имеешь опыт работы с такими фреймворками, как FastAPI. Обладаешь глубокими знаниями <highlighttext>Python</highlighttext> и опытом применения SQL. Ты знаком с..."
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "id": "87662963",
+        "_salary": 60000,
+        "requirements": "Уверенное знание <highlighttext>python</highlighttext>. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL..."
+    },
+    {
+        "name": "Python backend developer",
+        "id": "89141530",
+        "_salary": 50000,
+        "requirements": "желания писать осмысленный код. — знания английского языка. — технического образования. Busy = [."
+    },
+    {
+        "name": "Разработчик Python",
+        "id": "88467201",
+        "_salary": 145000,
+        "requirements": "Кандидат должен знать и уметь: Язык программирования <highlighttext>Python</highlighttext>. Объектно-ориентированное программирование, уверенное применение на практике. Основные паттерны проектирования и применение..."
+    },
+    {
+        "name": "Python программист",
+        "id": "89283361",
+        "_salary": 70000,
+        "requirements": "Опыт работы с Git, SQL, <highlighttext>Python</highlighttext> (pandas, numpy), командной строкой. Целеустремленность. Готовность к обучению."
+    },
+    {
+        "name": "Intern / Junior Python backend developer",
+        "id": "88184857",
+        "_salary": 60000,
+        "requirements": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро..."
+    },
+    {
+        "name": "Разработчик Telegram-ботов на Python",
+        "id": "88177566",
+        "_salary": 50000,
+        "requirements": "Уверенное владение <highlighttext>Python</highlighttext> (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+    },
+    {
+        "name": "Middle Разработчик Python / Django",
+        "id": "89215036",
+        "_salary": 120000,
+        "requirements": "Отличное знание <highlighttext>Python</highlighttext>, Django, Celery, PostgreSQL, Redis, (желателен опыт работы от 2-х лет). Опыт написания unit-тестов. "
+    },
+    {
+        "name": "Python Backend Developer",
+        "id": "88521690",
+        "_salary": 80000,
+        "requirements": "Как плюс опыт работы с Flask. Стек технологий: <highlighttext>Python</highlighttext> 3.6+, requests, docker, mongoDB. Хотим видеть в кандидате: ⁃ Знание..."
+    },
+    {
+        "name": "Backend-разработчик Python (FastAPI/Flask)",
+        "id": "89215195",
+        "_salary": 35000,
+        "requirements": "уверенное знание <highlighttext>Python</highlighttext> и опыт работы с ним. - опыт работы с фреймворком FastAPI/Flask. - умение работать с Git. - "
     },
     {
         "name": "Python Backend Developer",
@@ -84,15 +168,81 @@
         "requirements": "Опыт написания кода на Django (+ DRF) от 2х лет. Понимание способов оптимизации SQL запросов к БД. "
     },
     {
-        "name": "Программист Python",
-        "id": "88864696",
-        "_salary": 450000,
-        "requirements": "От 3 лет коммерческого опыта на <highlighttext>Python</highlighttext>. Наличие высшего технического образования."
+        "name": "Web Developer (Python/Django)",
+        "id": "89136485",
+        "_salary": 90000,
+        "requirements": "Опыт разработки от 2-х лет на <highlighttext>Python</highlighttext> 3. Опыт работы с фреймворком Django (+ rest framework). Опыт написания юниттестов. "
+    },
+    {
+        "name": "Junoir backend developer (Python)",
+        "id": "88574692",
+        "_salary": 60000,
+        "requirements": "Знаешь <highlighttext>Python</highlighttext> и имеешь опыт написания pet-проектов. Знаком(а) с Django и Flask/Fast API. Понимаешь СУБД и можешь..."
+    },
+    {
+        "name": "Python/Django Разработчик",
+        "id": "89031908",
+        "_salary": 50000,
+        "requirements": null
+    },
+    {
+        "name": "Junior Python разработчик",
+        "id": "88676092",
+        "_salary": 60000,
+        "requirements": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь..."
+    },
+    {
+        "name": "Младший python-разработчик",
+        "id": "86598530",
+        "_salary": 85000,
+        "requirements": "Знание <highlighttext>Python</highlighttext>, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на <highlighttext>python</highlighttext> - от 6 месяцев. Опыт работы с..."
+    },
+    {
+        "name": "Backend-разработчик (Python, FastAPI, PostgreSQL)",
+        "id": "88939566",
+        "_salary": 60000,
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext> от 2 лет. Практический опыт работы с FastAPI и PostgreSQL. Знание принципов RESTful API. "
+    },
+    {
+        "name": "Младший программист Python",
+        "id": "88617232",
+        "_salary": 40000,
+        "requirements": "Есть соответствующий опыт работы (особенно хорошо — командной) либо, если нет опыта, то обязательным является наличие: - образования по профилю информационных технологий..."
+    },
+    {
+        "name": "Python-разработчик (fullstack)",
+        "id": "88876061",
+        "_salary": 130000,
+        "requirements": "Подтвержденный опыт работы с <highlighttext>Python</highlighttext> (Django framework). Знание SQL и опыт работы с реляционными БД PostgreSQL. Умение работать в команде..."
+    },
+    {
+        "name": "Backend Developer | Python Middle",
+        "id": "89308407",
+        "_salary": 100000,
+        "requirements": "Опыт работы в backend разработке на <highlighttext>Python</highlighttext> от 1 года. Знание Flask, FastAPI, PostgreSQL, Redis, Celery, Git, peewee / SQLAlchemy. "
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "id": "88188452",
+        "_salary": 150000,
+        "requirements": "Уверенные знания <highlighttext>python</highlighttext>3.6 (желателен опыт коммерческой разработки от 2 лет). Опыт работы с Flask/Django. Опыт работы с..."
     },
     {
         "name": "Python Developer",
-        "id": "88995759",
-        "_salary": 400000,
-        "requirements": "Опыт в продакшн от 3-х лет! Нам нужен уверенный мидл или сеньор. Мы используем Django, Django Rest Framework, Postgresql. "
+        "id": "88345247",
+        "_salary": 100000,
+        "requirements": "Опыт разработки сложных проектов. Обязателен опыт работы с Django, <highlighttext>python</highlighttext> 3.9, Django Rest Framework. Знание SQL (в частности, PostgreSQL..."
+    },
+    {
+        "name": "Python FastAPI Backend Develper (FastAPI разработчик, Python)",
+        "id": "89136904",
+        "_salary": 100000,
+        "requirements": "FastAPI. PostgreSQL. SQLAlchemy. Pytest. Git/git-cli. Четкое понимание работы асинхронности в питоне (asyncio), в чем отличия асинхронности от многопоточности..."
+    },
+    {
+        "name": "Разработчик python",
+        "id": "88769370",
+        "_salary": 120000,
+        "requirements": "1. Опыт работы в качестве бэкенд разработчика на <highlighttext>Python</highlighttext> от 2-х лет. 2. Понимание принципов межсистемных интеграций (API, message..."
     }
 ]
