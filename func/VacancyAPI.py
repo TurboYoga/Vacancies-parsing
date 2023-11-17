@@ -1,5 +1,9 @@
 from abc import ABC, abstractmethod
 import requests
+import os
+
+
+SJ_KEY = os.getenv('SJ_API_KEY')
 
 
 class AbstractVacancyAPI(ABC):
@@ -38,5 +42,5 @@ class SuperjobApi(AbstractVacancyAPI):
         }
 
     def get_request(self):
-        headers = {"X-Api-App-Id":"v3.r.131463832.2586bac83f4a549e2423cd87946d9c4b7e901da6.a12405f9d033d70f7397294439cdaa2e119bfc1d"}
+        headers = {"X-Api-App-Id":SJ_KEY}
         return requests.get(self.url, self.params, headers=headers)
